@@ -33,6 +33,7 @@ http://git-scm.com/book
 
 These next links are all effectively crash courses to get you up and running quickly.
 http://learn.github.com/p/intro.html
+http://git.or.cz/course/svn.html
 http://refcardz.dzone.com/refcardz/getting-started-git
 http://www.spheredev.org/wiki/Git_for_the_lazy
 www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf
