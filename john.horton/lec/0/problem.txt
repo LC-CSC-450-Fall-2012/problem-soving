@@ -1,0 +1,1 @@
+Write a program to check whether a string is a plaindrome. An assumption as to whether case differences affect plaindromeness can be made. Yes, palindromeness is a word, and I just now made it up.
