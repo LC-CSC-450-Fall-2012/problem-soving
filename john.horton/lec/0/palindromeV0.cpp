@@ -1,3 +1,8 @@
+/*
+Authors: Peter Kootz and John Horton
+Purpose: Determine if string is a plaindrome.
+*/
+
 #include <iostream>
 #include <ctype.h>
 using namespace std;
