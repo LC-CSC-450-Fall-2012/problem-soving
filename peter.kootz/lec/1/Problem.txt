@@ -1,0 +1,4 @@
+numbers.txt contains a bunch of ten digit phone numbers
+in various formats, write a program to write those
+phone numbers in a universal format - (000)000-0000 
+to output.txt.

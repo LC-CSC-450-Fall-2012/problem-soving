@@ -1,0 +1,3 @@
+Given a word, you must check and correctly
+specify if it is still the same word  when
+spelled backwords.
