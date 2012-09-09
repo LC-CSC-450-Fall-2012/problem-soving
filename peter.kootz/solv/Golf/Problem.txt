@@ -1,0 +1,14 @@
+Write a proglam to output the name for a golf score.
+Gather input from (golf.in) and output to (golf.out).
+
+The first line of the input file contains the number of entries.
+On every line after that it contains two numbers 'p' and 's',
+for par, and stroke. These are sperated by a space.
+
+For each set of numbers write:
+
+"hole-in-one","double-eagle","eagle","birdie","par",
+"bogey","double-bogey","triple-bogey","four-over-par",
+"five-over-par","six-over-par", or "seven-over-par".
+
+To the output file, and iostream (if you wish).
