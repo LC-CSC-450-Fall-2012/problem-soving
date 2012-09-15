@@ -1,0 +1,5 @@
+You are handed an extensive list of words, and asked which ones,
+when converted into numbers on a phone ('a','b', or 'c' would be 2 ect.) if any of them  are palindromes. The input file you create 
+(phone.txt)has the numbers of words in the file on the first line.
+And on every consecutive line there is a new word to be checked.
+Let your program output "YES" or "NO".
