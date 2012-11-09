@@ -1,0 +1,3 @@
+Implement a program (tth.cpp) that will
+take a string from a file and output its
+TTH (Toy Tetragraph Hash).
